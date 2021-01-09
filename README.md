@@ -5,6 +5,6 @@ Calculate Trump's support vs. COVID-19 Deaths, on a per-county basis
 Check out [README.ipynb] for details
 
 
-!(result.png)
+![results](result.png)
 
 
